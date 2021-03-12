@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amirt01
+- 👀 I’m interested in Planes, Trains & Automobiles
+- 🌱 I’m currently learning advanced algorithms and data structures in Python
+- 📫 How to reach me amirtadros01@gmail.com
