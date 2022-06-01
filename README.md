@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @amirt01
 - 👀 I’m interested in Planes, Trains & Automobiles
-- 🌱 I’m currently learning advanced algorithms and data structures in Python
+- 🌱 I’m currently learning about IOT and Control Systems in C++
 - 📫 How to reach me amirtadros01@gmail.com
