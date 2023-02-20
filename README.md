@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @amirt01
 - 👀 I’m interested in Planes, Trains & Automobiles
-- 🌱 I’m currently learning about IOT and Control Systems in C++
+- 🌱 I’m currently learning about Concepts in Programming Languages, and Control Systems in C++
 - 📫 How to reach me amirtadros01@gmail.com
